@@ -6,8 +6,11 @@ Module 18
 The purpose of this project is to use an unsupervised machine learning model to analyze and visualize actively trading cyrptocurrencies. 
 
 Deliverable 1: Preprocessing the Data for PCA
+
 Deliverable 2: Reducing Data Dimensions Using PCA
+
 Deliverable 3: Clustering Cryptocurrencies Using K-means
+
 Deliverable 4: Visualizing Cryptocurrencies Results
 
 # Results
